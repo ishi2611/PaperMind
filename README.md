@@ -2,6 +2,8 @@
 
 **An AI research assistant that turns any academic paper into a structured, citable breakdown.**
 
+**Live demo: [papermind-l7sg.onrender.com](https://papermind-l7sg.onrender.com)** (free hosting, so the first load may take up to a minute while the server wakes up)
+
 Upload a PDF, DOCX, or TXT paper and PaperMind (powered by Google Gemini) produces:
 
 | Section | What you get |
